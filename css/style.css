@@ -568,11 +568,11 @@ footer span {
   display: inline-block;
   margin-right: 4%;
   vertical-align: top;
+  text-align: center;
 }
 
-.pinfo h3{
-  margin: 0 40% 30px;
-
+.pcontent{
+  text-align: left;
 }
 
 .pinfo .social-icons li a {
