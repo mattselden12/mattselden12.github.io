@@ -594,3 +594,7 @@ footer span {
 html{
   scroll-behavior: smooth;
 }
+
+.workingprojs{
+  text-align: center;
+}
